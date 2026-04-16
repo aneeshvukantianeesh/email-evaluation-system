@@ -1,0 +1,122 @@
+[
+    {
+        "intent": "Follow up interview",
+        "generated_email": "Dear Sir/Madam,\n\nI am following up on my interview held on Monday for the Software Engineer role.\n\nThank you.\n\nSincerely,\nYour Name",
+        "reference_email": "Dear Hiring Manager, I am following up on my interview held on Monday for the Software Engineer role.",
+        "content": 1.0,
+        "reference": 0.834,
+        "structure": 1.0,
+        "fluency": 1.0,
+        "diversity": 0.957,
+        "confidence": 0.958,
+        "final_score": 0.932
+    },
+    {
+        "intent": "Leave request",
+        "generated_email": "Dear Sir/Madam,\n\nI request leave for 2 days due to personal reasons.\n\nThank you.\n\nSincerely,\nYour Name",
+        "reference_email": "Dear Manager, I request leave for 2 days due to personal reasons.",
+        "content": 1.0,
+        "reference": 0.769,
+        "structure": 1.0,
+        "fluency": 1.0,
+        "diversity": 1.0,
+        "confidence": 0.954,
+        "final_score": 0.907
+    },
+    {
+        "intent": "Apology delay",
+        "generated_email": "Dear Sir/Madam,\n\nI sincerely apologize for missing the deadline due to an unexpected issue.\n\nThank you.\n\nSincerely,\nYour Name",
+        "reference_email": "Dear Team, I sincerely apologize for missing the deadline due to an unexpected issue.",
+        "content": 0.75,
+        "reference": 0.831,
+        "structure": 1.0,
+        "fluency": 1.0,
+        "diversity": 0.95,
+        "confidence": 0.906,
+        "final_score": 0.855
+    },
+    {
+        "intent": "Meeting request",
+        "generated_email": "Dear Sir/Madam,\n\nI would like to schedule a meeting tomorrow to discuss the project.\n\nThank you.\n\nSincerely,\nYour Name",
+        "reference_email": "Dear Team, I would like to schedule a meeting tomorrow to discuss the project.",
+        "content": 0.75,
+        "reference": 0.765,
+        "structure": 1.0,
+        "fluency": 1.0,
+        "diversity": 0.95,
+        "confidence": 0.893,
+        "final_score": 0.829
+    },
+    {
+        "intent": "Job application",
+        "generated_email": "Dear Sir/Madam,\n\nI am applying for the Data Analyst position.\n\nThank you.\n\nSincerely,\nYour Name",
+        "reference_email": "Dear Hiring Manager, I am applying for the Data Analyst position.",
+        "content": 0.667,
+        "reference": 0.688,
+        "structure": 1.0,
+        "fluency": 1.0,
+        "diversity": 1.0,
+        "confidence": 0.871,
+        "final_score": 0.775
+    },
+    {
+        "intent": "Resignation",
+        "generated_email": "Dear Sir/Madam,\n\nI resign from my role with a one-month notice.\n\nThank you.\n\nSincerely,\nYour Name",
+        "reference_email": "Dear Sir, I resign from my role with a one-month notice.",
+        "content": 1.0,
+        "reference": 0.719,
+        "structure": 1.0,
+        "fluency": 1.0,
+        "diversity": 1.0,
+        "confidence": 0.944,
+        "final_score": 0.888
+    },
+    {
+        "intent": "Project update",
+        "generated_email": "Dear Sir/Madam,\n\nThe project has been completed successfully.\n\nThank you.\n\nSincerely,\nYour Name",
+        "reference_email": "Dear Team, the project has been completed successfully.",
+        "content": 1.0,
+        "reference": 0.693,
+        "structure": 1.0,
+        "fluency": 1.0,
+        "diversity": 1.0,
+        "confidence": 0.939,
+        "final_score": 0.877
+    },
+    {
+        "intent": "Complaint",
+        "generated_email": "Dear Sir/Madam,\n\nI am writing regarding a delay in service.\n\nThank you.\n\nSincerely,\nYour Name",
+        "reference_email": "Dear Support, I am writing regarding a delay in service.",
+        "content": 1.0,
+        "reference": 0.671,
+        "structure": 1.0,
+        "fluency": 1.0,
+        "diversity": 1.0,
+        "confidence": 0.934,
+        "final_score": 0.868
+    },
+    {
+        "intent": "Thank you",
+        "generated_email": "Dear Sir/Madam,\n\nThank you for your support.\n\nThank you.\n\nSincerely,\nYour Name",
+        "reference_email": "Dear Manager, thank you for your support.",
+        "content": 0.667,
+        "reference": 0.605,
+        "structure": 1.0,
+        "fluency": 1.0,
+        "diversity": 0.769,
+        "confidence": 0.808,
+        "final_score": 0.73
+    },
+    {
+        "intent": "Reminder",
+        "generated_email": "Dear Sir/Madam,\n\nThis is a reminder for the pending task.\n\nThank you.\n\nSincerely,\nYour Name",
+        "reference_email": "Dear Team, this is a reminder for the pending task.",
+        "content": 1.0,
+        "reference": 0.676,
+        "structure": 1.0,
+        "fluency": 1.0,
+        "diversity": 1.0,
+        "confidence": 0.935,
+        "final_score": 0.87
+    }
+]
