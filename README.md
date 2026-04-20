@@ -44,7 +44,7 @@ pip install pandas
 
 ---
 
-## 🧪 Evaluation Metrics
+##  Evaluation Metrics
 
 ### 1. Content Accuracy
 
